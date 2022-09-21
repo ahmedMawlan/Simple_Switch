@@ -1,0 +1,33 @@
+.parent{
+    height: 200px;
+    width: 400px;
+    border: 3px solid ;
+    display: flex;
+    border: 3px solid rgb(184, 181, 181);
+}
+
+button{
+    height: 30px;
+    width: 70px;
+    margin: 15% 40% ;
+    border-radius: 20px;
+    border: 2px solid rgb(184, 181, 181);
+    background-color: white;
+     display: flex; 
+     
+}
+    
+    
+ 
+
+.circle{
+    height: 30px;
+    width: 30px;
+    background-color: black ;
+    border-radius: 30px;
+    border: 0px solid rgb(184, 181, 181);
+    position: relative;
+    top: -4px;
+    left: -5px ;
+    cursor: pointer;
+}
